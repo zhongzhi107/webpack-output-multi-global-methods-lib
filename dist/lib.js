@@ -103,7 +103,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("module.exports = {\n  a: 'a',\n  b: 'b'\n};\n\n\n//# sourceURL=webpack:///./a.js?");
+eval("// 导出两个全局属性\nmodule.exports = {\n  a: 'a',\n  b: 'b'\n};\n\n\n//# sourceURL=webpack:///./a.js?");
 
 /***/ }),
 

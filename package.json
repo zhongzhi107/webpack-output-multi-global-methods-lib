@@ -1,7 +1,7 @@
 {
   "name": "webpack-output-multi-global-methods-lib",
   "version": "1.0.0",
-  "description": "",
+  "description": "output",
   "main": "a.js",
   "dependencies": {
     "webpack": "^4.11.1",
