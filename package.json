@@ -1,0 +1,18 @@
+{
+  "name": "webpack-output-multi-global-methods-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a.js",
+  "dependencies": {
+    "webpack": "^4.11.1",
+    "webpack-cli": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "webpack --config webpack.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["webpack", "libary", "global methods"],
+  "author": "zhongzhi <zhong.zhi@163.com>",
+  "license": "ISC"
+}

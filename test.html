@@ -1,0 +1,13 @@
+<html>
+<head>
+  <p>所有方法能直接挂到window下到关键是<b>不要</b>配置 `output.library` </p>
+  <script src="dist/lib.js"></script>
+  <script>
+    console.log('lib.js中暴露的方法全都挂在window下：')
+    console.log('\twindow.a: ', window.a);
+    console.log('\twindow.b: ', window.b);
+  </script>
+</head>
+<body>
+</body>
+</html>
