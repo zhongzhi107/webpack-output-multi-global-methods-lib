@@ -10,3 +10,6 @@
 ```
 npm i && npm start
 ```
+
+## 输出验证
+在浏览器中打开 `test.html` ，能在控制台中看到 `window.a` 和 `window.b` 的值
